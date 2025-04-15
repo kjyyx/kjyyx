@@ -46,7 +46,11 @@ const kenj = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjyyx&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kjyyx&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kjyyx&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
