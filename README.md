@@ -36,6 +36,10 @@ const kenj = {
     <img height="150em" src="https://streak-stats.demolab.com?user=kjyyx&background=3C3C3C&hide_border=true&border_radius=10&stroke=FE971E&ring=FE971E&fire=FCBD28&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FCBD28&dates=CCCCCC" />
 </div>
 
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kjyyx&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g3OHk1ZXkyb2NnMjh0aHRrMXR6Z3ZqcHR2cGo5b29jcXZzMXY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="28"> <span style="color: #FE971E">PROJECTS</span>
 
 <div align="center">
