@@ -29,12 +29,11 @@ const kenj = {
   <a href="https://github.com/kjyyx">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kjyyx&show_icons=true&hide_title=true&bg_color=3C3C3C&text_color=FFFFFF&hide_border=true&border_radius=10&hide_rank=true&icon_color=FE971E&title_color=FCBD28" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjyyx&layout=compact&bg_color=3C3C3C&text_color=FFFFFF&hide_border=true&border_radius=10&title_color=FCBD28" />
-    <img height="150em" src="https://streak-stats.demolab.com?user=kjyyx&background=3C3C3C&hide_border=true&border_radius=10&stroke=FE971E&ring=FE971E&fire=FCBD28&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FCBD28&dates=CCCCCC" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjyyx&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&title=FE971E" />
+    <img height="150em" src="https://streak-stats.demolab.com?user=kjyyx&background=3C3C3C&hide_border=true&border_radius=10&stroke=FE971E&ring=FE971E&fire=FCBD28&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FCBD28&dates=CCCCCC" />
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g3OHk1ZXkyb2NnMjh0aHRrMXR6Z3ZqcHR2cGo5b29jcXZzMXY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="28"> <span style="color: #FE971E">PROJECTS</span>
